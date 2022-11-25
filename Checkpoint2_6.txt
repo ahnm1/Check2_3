@@ -1,0 +1,8 @@
+6.a
+git log - commit history for current branch
+
+6.b
+git status
+
+6.c
+git init
